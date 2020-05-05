@@ -1,0 +1,22 @@
+{
+  "name": "vue-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gobrendan/vue-poc.git"
+  },
+  "author": "Brendan Rice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gobrendan/vue-poc/issues"
+  },
+  "homepage": "https://github.com/gobrendan/vue-poc#readme"
+}
